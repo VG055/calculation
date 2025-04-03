@@ -12,8 +12,9 @@ public class Cal{
         double num2 = scanner.nextDouble();
         
         double sum = num1 + num2;
-        
+        double sub = num1 - num2;
         System.out.println("The sum is: " + sum);
+	system.out.println("The sub is: " + sub);
         
         scanner.close();
     }
