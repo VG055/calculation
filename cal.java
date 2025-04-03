@@ -12,8 +12,11 @@ public class Cal{
         double num2 = scanner.nextDouble();
         
         double sum = num1 + num2;
+	double product = num1 * num2;
         
         System.out.println("The sum is: " + sum);
+        System.out.println("The product is: " + product);
+      
         
         scanner.close();
     }
