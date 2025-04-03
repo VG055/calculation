@@ -1,0 +1,7 @@
+import java.util.scanner
+
+
+public class calc{
+public ststic void main(sring[] args){
+  	 Scanner sc = new Scanner(system.in);
+	 system.out.println("Enter the 
